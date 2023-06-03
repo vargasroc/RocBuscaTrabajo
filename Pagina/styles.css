@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6b0aa;
+    margin: 0;
+    overflow-x: hidden;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #c0392b; /* Rojo */
+  }
+  
+  div {
+    text-align: center;
+    color: #8e44ad; /* Morado */
+  }
+  
+  header {
+    background-color: #e6b0aa; /* Rosa claro */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+  }
+  
+  main {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #e6b0aa; 
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+  }
+  
